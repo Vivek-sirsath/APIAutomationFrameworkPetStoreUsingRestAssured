@@ -48,10 +48,10 @@ public class PetModuleTestUsingPropertiesAndFaker {
 			petPayload.setCategory(category);
 			petPayload.setName("Lucy-Updated");
 			
-			List<String> photoUrls = new ArrayList<>();
+			List<String> photoUrls = new ArrayList<String>();
 			photoUrls.add("https://example.com/dog.jpg");
 			
-			List<TagPOJO> tags = new ArrayList<>();
+			List<TagPOJO> tags = new ArrayList<TagPOJO>();
 			tags.add(tag);
 			
 			petPayload.setPhotoUrls(photoUrls);
