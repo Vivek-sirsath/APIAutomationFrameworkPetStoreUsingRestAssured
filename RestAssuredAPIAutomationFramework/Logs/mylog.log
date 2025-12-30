@@ -1,0 +1,26 @@
+[INFO ] 2025-12-28 20:11:00.719 [main] SwaggerPetstoreAPIFramework - GET request of STORE module inventory successful using properties file and faker class data.
+[INFO ] 2025-12-28 20:19:32.315 [main] SwaggerPetstoreAPIFramework - GET request of STORE module inventory successful using properties file and faker class data.
+[INFO ] 2025-12-28 20:22:04.584 [main] SwaggerPetstoreAPIFramework - GET request of STORE module inventory successful using properties file and faker class data.
+[INFO ] 2025-12-28 21:33:19.063 [main] SwaggerPetstoreAPIFramework - POST request of STORE module successful using properties file and faker class data.
+[INFO ] 2025-12-28 21:33:20.664 [main] SwaggerPetstoreAPIFramework - GET request of STORE module successful using properties file and faker class data.
+[INFO ] 2025-12-28 21:33:22.434 [main] SwaggerPetstoreAPIFramework - GET request of STORE module inventory successful using properties file and faker class data.
+[INFO ] 2025-12-28 21:33:24.086 [main] SwaggerPetstoreAPIFramework - DELETE request of STORE module successful using properties file and faker class data.
+[INFO ] 2025-12-28 21:35:33.268 [main] SwaggerPetstoreAPIFramework - POST request of STORE module successful using properties file and faker class data.
+[INFO ] 2025-12-28 21:35:34.835 [main] SwaggerPetstoreAPIFramework - GET request of STORE module successful using properties file and faker class data.
+[INFO ] 2025-12-28 21:35:36.493 [main] SwaggerPetstoreAPIFramework - GET request of STORE module inventory successful using properties file and faker class data.
+[INFO ] 2025-12-28 21:35:38.083 [main] SwaggerPetstoreAPIFramework - DELETE request of STORE module successful using properties file and faker class data.
+[INFO ] 2025-12-28 21:36:36.899 [main] SwaggerPetstoreAPIFramework - POST request of STORE module successful using properties file and faker class data.
+[INFO ] 2025-12-28 21:36:38.618 [main] SwaggerPetstoreAPIFramework - GET request of STORE module successful using properties file and faker class data.
+[INFO ] 2025-12-28 21:36:40.211 [main] SwaggerPetstoreAPIFramework - GET request of STORE module inventory successful using properties file and faker class data.
+[INFO ] 2025-12-28 21:36:41.851 [main] SwaggerPetstoreAPIFramework - DELETE request of STORE module successful using properties file and faker class data.
+[INFO ] 2025-12-29 02:05:35.442 [main] SwaggerPetstoreAPIFramework - POST request of PET module successful using properties file and faker class data.
+[INFO ] 2025-12-29 02:05:45.547 [main] SwaggerPetstoreAPIFramework - GET by ID request of PET module successful using properties file and faker class data.
+[INFO ] 2025-12-29 02:05:47.254 [main] SwaggerPetstoreAPIFramework - GET by STATUS request of PET module successful using properties file and faker class data.
+[INFO ] 2025-12-29 02:11:52.208 [main] SwaggerPetstoreAPIFramework - POST request of PET module successful using properties file and faker class data.
+[INFO ] 2025-12-29 02:11:53.914 [main] SwaggerPetstoreAPIFramework - GET by ID request of PET module successful using properties file and faker class data.
+[INFO ] 2025-12-29 02:11:55.709 [main] SwaggerPetstoreAPIFramework - GET by STATUS request of PET module successful using properties file and faker class data.
+[INFO ] 2025-12-29 02:21:50.644 [main] SwaggerPetstoreAPIFramework - POST request of PET module successful using properties file and faker class data.
+[INFO ] 2025-12-29 02:21:52.279 [main] SwaggerPetstoreAPIFramework - GET by ID request of PET module successful using properties file and faker class data.
+[INFO ] 2025-12-29 02:21:53.913 [main] SwaggerPetstoreAPIFramework - GET by STATUS request of PET module successful using properties file and faker class data.
+[INFO ] 2025-12-29 02:21:55.564 [main] SwaggerPetstoreAPIFramework - UPDATE request of PET module successful using properties file and faker class data.
+[INFO ] 2025-12-29 02:21:57.155 [main] SwaggerPetstoreAPIFramework - DELETE request of PET module successful using properties file and faker class data.
